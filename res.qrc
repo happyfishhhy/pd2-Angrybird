@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/BLOCK_WOOD_1_5.png</file>
+        <file>image/background.jpg</file>
+        <file>image/GROUND2.png</file>
+        <file>image/BLOCK_WOOD_2_4.png</file>
+        <file>image/BIRD_SW_YELLOW_CHEER_2.png</file>
+        <file>image/BIRD_SW_RED_BS_SCREAM.png</file>
+        <file>image/BIRD_GREEN_YELL.png</file>
+        <file>image/BIRD_BOOMERANG_COLLISION.png</file>
+        <file>image/PIGLETTE_KING_07_SMILE.png</file>
+        <file>image/BTN_TRACKPADMENU_RESTART_HIGHLIGHT.png</file>
+        <file>image/BTN_BG_SW.png</file>
+        <file>image/stone1.png</file>
+        <file>image/stone2.png</file>
+        <file>image/stone3.png</file>
+        <file>image/stone4.png</file>
+        <file>image/PIGLETTE_HELMET_01_SMILE.png</file>
+        <file>image/BIRD_GREY_YELL.png</file>
+    </qresource>
+</RCC>
